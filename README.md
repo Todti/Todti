@@ -1,5 +1,5 @@
-### 👋 Hi, I’m @Todti. My name is Alex.
-- 👀 I’m interested in Frontend development
+<h1>👋 Hi, I’m @Todti. My name is Alex.</h1>
+<h2> I am Frontend Developer</h2>
 
 
 
