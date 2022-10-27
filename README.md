@@ -1,6 +1,4 @@
-<h1>👋 Hi, I’m @Todti. My name is Alex.</h1>
-<h2                                                                                                                                                                                                                                                       >  I am Frontend Developer</h2>
-
+<h1>👋 Hi, I’m @Todti. My name is Alex. I'm Frontend Developer</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/todti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atodti" height="30" width="32" /></a>
