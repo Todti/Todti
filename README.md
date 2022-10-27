@@ -1,7 +1,11 @@
 <h1>👋 Hi, I’m @Todti. My name is Alex.</h1>
 <h2> I am Frontend Developer</h2>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/atodti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atodti" height="30" width="40" /></a>
+<a href="https://dribbble.com/todt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="todt" height="30" width="40" /></a>
+</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
